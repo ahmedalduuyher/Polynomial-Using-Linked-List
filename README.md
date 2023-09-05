@@ -1,2 +1,1 @@
-# Polynomial-Using-Linked-List
-Polynomial library using Linked List
+In this lab I implemented a library that does operations between monomials and polynomials using a sorted singly linked list with a dummy header. I have also written comments in the Poly.cpp file outlining the asymptotic run time and space complexity for each method implemented in the Poly class.
